@@ -16,6 +16,7 @@
   <img align="center" title="CSS3" alt="CSS" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" title="Java" alt="JAVA" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
   <img align="center" title="Python" alt="PYTHON" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" title="Photoshop" alt="PHOTOSHOP" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
 </div>
   
 ##
