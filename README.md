@@ -12,8 +12,8 @@
   
 <div style="display: inline_block"><br>
   <img align="center" title="JavaScript" alt="JS" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" title="HyperText Markup Language" alt="HTML" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" title="Cascading Style Sheets" alt="CSS" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" title="HTML5" alt="HTML" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" title="CSS3" alt="CSS" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" title="Java" alt="JAVA" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
   <img align="center" title="Python" alt="PYTHON" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
