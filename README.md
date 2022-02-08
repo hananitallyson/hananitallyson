@@ -1,6 +1,7 @@
 ## Hi there 👋
 - 💬 About me: I'm 17 years old. I'm taking my 2nd year of Computer Science for the Internet at IFRN/CA. I'm also a full time nerd!
 - 🎲 Fun Fact: I'm a Dungeon Master (Tabletop RPG).
+- 🌏 Nationality: Brazilian.
 - 👦 My pronouns: He/Him.
 
 <div align="center" width="100vh">
