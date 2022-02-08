@@ -1,6 +1,6 @@
 # Hi there 👋
 - 💬 About me: I'm 17 years old. I'm taking my 2nd year of Computer Science for the Internet at IFRN/CA. I'm also a full time nerd!
-- 🎲 Fun Facts: I'm a Dungeon Master (Tabletop RPG). I love kpop! My favorite fruit is watermelon.
+- 🎲 Fun Facts: I'm a Dungeon Master (Tabletop RPG). I love kpop! My favorite fruit is watermelon. I used to be a 5Harmony fan.
 - 🌏 Nationality: Brazilian.
 - 👦 My pronouns: He/Him.
 
