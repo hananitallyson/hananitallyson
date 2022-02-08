@@ -1,7 +1,7 @@
 ## Hi there 👋
-- 📄 Name: Hanani Tallyson  
-- 💬 Age: 17 years old  
-- 👦 Pronouns: He/Him  
+- 💬 About me: I'm 17 years old, a full time nerd! I'm taking a 2nd year of Computer Science for the Internet at IFRN/CA.
+- 🎲 Fun Fact: I'm a Dungeon Master (Tabletop RPG).
+- 👦 My pronouns: He/Him.
 
 <div align="center" width="100vh">
   <a href="https://github.com/hananitallyson">
