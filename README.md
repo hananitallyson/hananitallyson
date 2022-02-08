@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 💬 About me: I'm 17 years old, a full time nerd! I'm taking a 2nd year of Computer Science for the Internet at IFRN/CA.
+- 💬 About me: I'm 17 years old, a full time nerd! I'm taking my 2nd year of Computer Science for the Internet at IFRN/CA.
 - 🎲 Fun Fact: I'm a Dungeon Master (Tabletop RPG).
 - 👦 My pronouns: He/Him.
 
