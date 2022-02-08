@@ -1,4 +1,7 @@
-### Hi there. I'm Hanani 👋
+## Hi there 👋
+- 📄 Name: Hanani Tallyson  
+- 💬 Age: 17 years old  
+- 👦 Pronouns: He/Him  
 
 <div align="center">
   <a href="https://github.com/hananitallyson">
@@ -11,6 +14,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-##
+## 
   
 ![Snake animation](https://github.com/hananitallyson/hananitallyson/blob/output/github-contribution-grid-snake.svg)
