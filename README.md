@@ -18,6 +18,7 @@
   <img align="center" title="Python" alt="PYTHON" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" title="Photoshop" alt="PHOTOSHOP" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" title="PHP" alt="PHP" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" title="MySQL" alt="MYSQL" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">   
 </div>
     
 ![Snake animation](https://github.com/hananitallyson/hananitallyson/blob/output/github-contribution-grid-snake.svg)
