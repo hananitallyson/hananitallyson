@@ -1,7 +1,8 @@
 # Hi there 👋
-- 💬 About me: I'm 18 years old. I'm taking my 3rd year of Computer Science for the Internet at IFRN/CA. I'm also a full time nerd!
+- 📄 About me: I'm 18 years old. I'm taking my 3rd year of Computer Science for the Internet at IFRN/CA. I'm also a full time nerd!
 - 🎲 Fun Facts: I'm a Dungeon Master (Tabletop RPG). I love kpop! My favorite fruit is watermelon. I used to be a 5Harmony fan.
 - 🌏 Nationality: Brazilian.
+- 💬 Languages: Portuguese, English.
 - 👦 My pronouns: He/Him.
 
 <div align="center" width="100vh">
