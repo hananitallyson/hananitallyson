@@ -20,7 +20,7 @@
   <img align="center" title="Photoshop" alt="PHOTOSHOP" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" title="PHP" alt="PHP" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" title="MySQL" alt="MYSQL" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" title="MySQL" alt="MYSQL" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+  <img align="center" title="MySQL" alt="MYSQL" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
 </div>
     
 ![Snake animation](https://github.com/hananitallyson/hananitallyson/blob/output/github-contribution-grid-snake.svg)
