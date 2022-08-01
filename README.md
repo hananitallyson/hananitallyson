@@ -2,8 +2,10 @@
 - 📄 About me: I born in 2004. I'm taking my 3rd year of Computer Science for the Internet at IFRN/CA. I'm also a full time nerd!
 - 🎲 Fun Facts: I'm a Dungeon Master (Tabletop RPG). I love kpop! My favorite fruit is watermelon. I used to be a 5Harmony fan.
 - 🌏 Nationality: Brazilian.
-- 💬 Languages: Portuguese, English.
+- 💬 Languages: Portuguese (Native), English (C1).
 - 👦 My pronouns: He/Him.
+
+My EF SET Certificate: https://www.efset.org/cert/9w88kE
 
 <div align="center" width="100vh">
   <a href="https://github.com/hananitallyson">
