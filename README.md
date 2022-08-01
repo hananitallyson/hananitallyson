@@ -1,6 +1,6 @@
 # Hi there 👋
 - 📄 About me: I born in 2004. I'm taking my 3rd year of Computer Science for the Internet at IFRN/CA. I'm also a full time nerd!
-- 🎲 Fun Facts: I'm a Dungeon Master (Tabletop RPG). I love kpop! My favorite fruit is watermelon. I used to be a 5Harmony fan.
+- 🎲 Fun Facts: I'm a Dungeon Master (Tabletop RPG). I love kpop and K-Dramas! My favorite fruit is watermelon. My favorite anime is Hunter x Hunter.
 - 🌏 Nationality: Brazilian.
 - 💬 Languages: Portuguese (Native), English (C1).
 - 👦 My pronouns: He/Him.
