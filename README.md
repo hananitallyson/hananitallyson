@@ -5,8 +5,6 @@
 - 💬 Languages: Portuguese (Native), English (C1).
 - 👦 My pronouns: He/Him.
 
-My LinkedIn: https://www.efset.org/cert/9w88kE
-
 My EF SET Certificate: https://www.efset.org/cert/9w88kE
 
 <div align="center" width="100vh">
