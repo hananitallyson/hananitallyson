@@ -9,8 +9,8 @@ My EF SET Certificate: https://www.efset.org/cert/9w88kE
 
 <div align="center" width="100vh">
   <a href="https://github.com/hananitallyson">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hananitallyson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hananitallyson&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hananitallyson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hananitallyson&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
