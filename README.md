@@ -13,7 +13,7 @@ My EF SET Certificate: https://www.efset.org/cert/9w88kE
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hananitallyson&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-<div style="display: inline_block"><br>
+<div style="display: flex; justify-content: center; align-items: center; gap: 1rem;">
   <img align="center" title="JavaScript" alt="JS" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" title="HTML5" alt="HTML" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" title="CSS3" alt="CSS" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
