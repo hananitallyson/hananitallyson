@@ -26,5 +26,7 @@ My EF SET Certificate: https://www.efset.org/cert/9w88kE
   <img align="center" title="Unity" alt="UNITY" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
   <img align="center" title="Laravel" alt="LARAVEL" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />  
 </div>
-    
-![Snake animation](https://github.com/hananitallyson/hananitallyson/blob/output/github-contribution-grid-snake.svg)
+   
+<div>
+![Snake animation](https://github.com/hananitallyson/hananitallyson/blob/output/github-contribution-grid-snake.svg)  
+</div>
