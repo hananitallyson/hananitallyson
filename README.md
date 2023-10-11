@@ -24,5 +24,3 @@ My EF SET Certificate: https://www.efset.org/cert/9w88kE
   <img align="center" title="MySQL" alt="MYSQL" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" title="Laravel" alt="LARAVEL" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />  
 </div>
-   
-![Snake animation](https://github.com/hananitallyson/hananitallyson/blob/output/github-contribution-grid-snake.svg)  
