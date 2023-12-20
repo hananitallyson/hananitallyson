@@ -1,26 +1,33 @@
-# Hi there 👋
-- 📄 About me: I born in 2004. I'm taking my 4th year of Internet Computing at IFRN/CA. I'm also a full time nerd! I'm a Dungeon Master (Tabletop RPG). I love kpop and Asian Dramas! My favorite fruit is watermelon. My favorite anime is Hunter x Hunter.
-- 🌏 Nationality: Brazilian.
-- 💬 Languages: Portuguese (Native), English (C1).
-- 👦 My pronouns: He/Him.
-
-My EF SET Certificate: https://www.efset.org/cert/9w88kE
-
-<div align="center" width="100vh">
-  <a href="https://github.com/hananitallyson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hananitallyson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hananitallyson&layout=compact&langs_count=7&theme=tokyonight"/>
+<div align="center">
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
+    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
+    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </div>
-  
-<br> 
-<div align="center" style="display: inline-block">
-  <img align="center" title="JavaScript" alt="JS" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" title="HTML5" alt="HTML" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" title="CSS3" alt="CSS" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" title="Java" alt="JAVA" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
-  <img align="center" title="Python" alt="PYTHON" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" title="Photoshop" alt="PHOTOSHOP" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-  <img align="center" title="PHP" alt="PHP" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" title="MySQL" alt="MYSQL" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" title="Laravel" alt="LARAVEL" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />  
+
+<hr>
+
+<p align="center">
+Hello there! 👋 My name is Hanani, a programming student and a TTRPG GM from Brazil. I'm passionate about technology, and I'm always looking to learn more about technology, development, etc. I born in 2004. I'm taking my 4th year of Internet Computing at IFRN/CA. I'm also a full time nerd! I'm a Dungeon Master (Tabletop RPG). I love kpop and Asian Dramas! My favorite fruit is watermelon. My favorite anime is Hunter x Hunter.
+</p>
+
+<hr>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hananitallyson&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;card_width=600&amp;custom_title=GitHub%20Stats&amp;title_color=3B7EBF&amp;text_color=FFF&amp;icon_color=3B7EBF&amp;hide=contribs&amp;show=reviews,prs_merged,prs_merged_percentage&amp;theme=transparent">
+
+<hr>
+<h2>Contacts</h2>
+<div style="display: flex;">
+  <a href="mailto:tallysonhanani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/hananitallyson/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.reddit.com/user/otaliz/"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"></a>
+  <a href="https://twitter.com/otaliz_"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
 </div>
