@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </div>
 
-<hr>
+##
 
 <div align="center">
 <h3>📄 About me 📄</h3>
@@ -26,13 +26,13 @@
 </p>
 </div>
 
-<hr>
+##
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=hananitallyson&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;card_width=600&amp;custom_title=GitHub%20Stats&amp;title_color=3B7EBF&amp;text_color=FFF&amp;icon_color=3B7EBF&amp;hide=contribs&amp;show=reviews,prs_merged,prs_merged_percentage&amp;theme=transparent">
 </div>
 
-<hr>
+##
 
 <div align="center">
     <h3>📧 Contact me 📧</h3>
@@ -44,7 +44,7 @@
     </div>
 </div>
 
-<hr>
+##
 
 <details>
 <summary>My EF SET Certificate</summary>
