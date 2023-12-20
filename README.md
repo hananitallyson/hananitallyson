@@ -24,7 +24,8 @@ Hello there! 👋 My name is Hanani, a programming student from Brazil. I'm pass
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hananitallyson&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;card_width=600&amp;custom_title=GitHub%20Stats&amp;title_color=3B7EBF&amp;text_color=FFF&amp;icon_color=3B7EBF&amp;hide=contribs&amp;show=reviews,prs_merged,prs_merged_percentage&amp;theme=transparent">
 
 <hr>
-<h2>Contacts</h2>
+
+<h3>Contacts</h3>
 <div style="display: flex;">
   <a href="mailto:tallysonhanani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/hananitallyson/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
