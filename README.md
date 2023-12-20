@@ -1,8 +1,3 @@
-<div align="center">
-    <img src="./github-header-image.png">
-</div>
-<br>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3d85c6&size=35&center=true&vCenter=true&width=1000&lines=Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
