@@ -40,3 +40,11 @@
       <a href="https://twitter.com/otaliz_" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
     </div>
 </div>
+
+<hr>
+
+<details>
+<summary>My EF SET Certificate</summary>
+<br>
+<a href="https://www.efset.org/cert/9w88kE" target="_blank"><img src="https://gcdnb.pbrd.co/images/iJwBknGB60fP.png?o=1"></a>
+</details>
