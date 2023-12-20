@@ -18,7 +18,7 @@
 <hr>
 
 <p align="center">
-Hello there! 👋 My name is Hanani, a programming student from Brazil. I'm passionate about technology, and I'm always looking to learn more about technology, development, etc. I born in 2004. I'm taking my 4th year of Internet Computing at IFRN/CA. I'm also a full time nerd! I'm a Dungeon Master (Tabletop RPG). I love kpop and Asian Dramas! My favorite fruit is watermelon. My favorite anime is Hunter x Hunter.
+<strong>Hello there! 👋 My name is Hanani, a programming student from Brazil.</strong> I'm passionate about technology, and I'm always looking to learn more about technology, development, etc. I born in 2004. I'm taking my 4th year of Internet Computing at IFRN/CA. I'm also a full time nerd! I'm a Dungeon Master (Tabletop RPG). I love kpop and Asian Dramas! My favorite fruit is watermelon. My favorite anime is Hunter x Hunter.
 </p>
 
 <hr>
