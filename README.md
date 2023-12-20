@@ -19,9 +19,12 @@
 
 <hr>
 
-<p align="center">
+<div align="center">
+<h3>About me</h3>
+<p>
 <strong>Hello there! 👋 My name is Hanani, a programming student from Brazil.</strong> I'm passionate about technology, and I'm always looking to learn more about technology, development, etc. I born in 2004. I'm taking my 4th year of Internet Computing at IFRN/CA. I'm also a full time nerd! I'm a Dungeon Master (Tabletop RPG). I love kpop and Asian Dramas! My favorite fruit is watermelon. My favorite anime is Hunter x Hunter.
 </p>
+</div>
 
 <hr>
 
